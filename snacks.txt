@@ -3,3 +3,4 @@ fruit
 milkshakes
 yogurt bowls
 noodles
+peaches
